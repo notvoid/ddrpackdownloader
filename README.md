@@ -1,5 +1,5 @@
 ## DDR Pack Downloader
-This scrapes the simfile repository of Zenius-I-Vanisher to download the most recent DDR simfile packs at once.
+This scrapes the simfile repository of Zenius-I-Vanisher to download the most recent DDR simfile packs simultaneously.
 
 ## Features
 - Selection by pack
